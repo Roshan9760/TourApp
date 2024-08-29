@@ -1,0 +1,13 @@
+.main-section{
+    display: flex;
+    align-items: center;
+    padding-left: 200px;
+    width: 80%;
+   justify-content: space-between;
+}
+
+.buttonAndtext{
+    display: flex;
+    /* align-items: center; */
+    justify-content: space-between;
+}
